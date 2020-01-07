@@ -1,4 +1,18 @@
-[{
+[
+    {
+    "label": "Ahmedabad",
+    "loc": {"lat": , "lng": },
+    "email": "ahmedabad@serverlessdays.io",
+    "website": "https://ahmedabad.serverlessdays.io",
+    "date": "17 September 2018",
+    "image": "https://raw.githubusercontent.com/stackery/ServerlessDays-PDX/master/public/media/pdx_square_logo.png"
+}
+    
+    
+    
+    
+    
+    {
     "label": "Portland",
     "loc": {"lat": 45.524176, "lng": -122.682122},
     "email": "portland@serverlessdays.io",
